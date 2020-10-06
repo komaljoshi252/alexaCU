@@ -10,7 +10,7 @@
 ## Wireframe
 
 <p align="center">
-<img alt="ReDoc logo" src="https://github.com/alexaCU/Welcome-to-Alexa-Developers-Community-CU/blob/master/siteview.jpg?raw=true" width="400px" />
+<img alt="ReDoc logo" src="https://raw.githubusercontent.com/alexaCU/alexaCU/master/siteview.jpg" width="400px" />
 </p>
 
 
