@@ -6,6 +6,9 @@
 
 **This is README for website under construction for Alexa CU.**
 
+## Tech Stack
+
+HTML CSS JS
 
 ## Wireframe
 
